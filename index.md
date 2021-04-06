@@ -10,15 +10,14 @@ __Andrew Slater__
 
 My first programming language was Java in highschool and then in the intro classes at UCSD. I like the beach, surfing, swimming, and reading. 
 
-
 ## Links
 [README](README.md)
 
-[Top](https://github.com/ajslaterhb2000/PagesProject/blob/main/index.md#webpage)
+[Top](https://ajslaterhb2000.github.io/PagesProject/#webpage)
 
-[Programming](https://github.com/ajslaterhb2000/PagesProject/blob/main/index.md#programming)
+[Programming](https://ajslaterhb2000.github.io/PagesProject/#programming)
 
-[Random Stuff](https://github.com/ajslaterhb2000/PagesProject/blob/main/index.md#random-stuff)
+[Random Stuff](https://ajslaterhb2000.github.io/PagesProject/#random-stuff)
 ## Programming 
 
 Languages I have worked with
